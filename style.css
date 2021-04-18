@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+body {
+    margin-top: 80px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    background-color: black;
+    opacity: 1;
+    color: yell ow;
+}
+
+h2 {
+    font-size: 40px;
+    color: white;
+    font-family: "cabin";
+    text-shadow: 2px 2px 5px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 10rem;
+    text-shadow: 0 0 1px #fff, 0 0 10px #fff, 0 0 5px #fff, 0 0 2px #ff1111, 0 0 60px #ff0000, 0 0 13px #ff1111;
+}
+
+p {
+    color: white;
+    font-family: "roboto";
+    font-style: bold;
+    font-weight: bold;
+    font-size: 3rem;
+    text-shadow: 0 0 1px rgb(0, 119, 255), 0 0 8px #fff, 0 0 4px #fff, 0 0 2px #626566, 0 0 40px #00d9ff, 0 0 10px #113dff;
+}
+
+.quotes {
+    margin: 50px;
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.quote {
+    font-family: "droid-serif";
+    font-size: 30px;
+}
+
+.author {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.source {
+    font-family: "Roboto"
+}
+
+.btn {
+    margin-bottom: 60px;
+    color: blue;
+}
+
+#new-quote:hover {
+    background-color: black;
+    color: white;
+}
